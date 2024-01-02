@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there👋, I'm Priya Lakshmi</h1>
 <h3 align="center">I enjoy building innovative solutions and have over 4 years of experience as a Software Engineer. Here's a sneak peak of what I have been upto</h3>
 
-- 🔭 I’m currently working on **Completing my Masters degree from the University of Florida**
+- 🏫 I’m currently working on **completing my Masters degree in Computer Science from the University of Florida**
   
-- 🌱 I’m currently learning **Kubernetes, Golang**
+- 📖 I’m currently learning **Kubernetes & Golang**
 
-- 👨‍💻 All of my projects are available at [https://lakshiya.github.io/portfolio/](https://lakshiya.github.io/portfolio/)
+- 👩‍💻 All of my projects are available in my [Portfolio](https://lakshiya.github.io/portfolio/)
 
 - 💬 Ask me about **AWS, SQL, Python, Tableau, Django**
 
-- 📫 How to reach me **ptheagarajan@ufl.edu**
+- 📩 How to reach me ? [Click here](mailto:ptheagarajan@ufl.edu)
 
 - 📄 Know about my experiences [Link to Resume](https://drive.google.com/file/d/1yFjZ9Go-HTS0PMM1Z_5hNkZT2cX2fbA3/view)
 
-- ⚡ Fun fact **I love to crochet and often spend my time listening to podcasts.**
+- ⚡ In my free time **I love to crochet and often spend my time listening to podcasts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
