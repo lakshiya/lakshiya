@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there👋, I'm Priya Lakshmi</h1>
-<h3 align="center">I enjoy building innovative solutions and have over 4 years of experience as a Software Engineer. Here's a sneak peak of what I have been upto</h3>
+<h3 align="center">I enjoy building innovative solutions and have over 4 years of experience as a Software Engineer. </h3>
+<h4 align="center">
+  Here's a sneak peak of what I have been upto</h4>
 
 - 🏫 I’m currently working on **completing my Masters degree in Computer Science from the University of Florida**
   
