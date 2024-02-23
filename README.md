@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🏫 I’m currently working on **completing my Masters degree in Computer Science from the University of Florida**
   
-- 📖 I’m currently learning **Kubernetes & Golang**
+- 📖 I’m currently mastering **Kubernetes & Golang**
 
 - 👩‍💻 All of my projects are available in my [Portfolio](https://lakshiya.github.io/portfolio/)
 
